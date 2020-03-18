@@ -45,7 +45,7 @@
                       <thead>
                         <tr>
                           <th></th>
-                          <th>Name</th>
+                          <th>Names</th>
                           <th>Username</th>
 
                           <th></th>
