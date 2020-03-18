@@ -4,7 +4,7 @@ session_start();
 //Check whether the session variable SESS_mEmBER_ID is present or not
 if (!isset($_SESSION['id']) ||(trim ($_SESSION['id']) == '')) {
 	header("location:".host()."../index.php");
-    exit();
+	exit();
 }
 $session_id=$_SESSION['id'];
 

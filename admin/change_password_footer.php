@@ -1,5 +1,5 @@
 <div style="text-align:center">
 		<footer>
-           <p>Southland College Technology Resource Inventory System</p>
+           <p>Church System</p>
         <footer>
 </div>
