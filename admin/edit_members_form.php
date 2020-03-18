@@ -186,7 +186,7 @@
                                         </p>
                           <div class="control-group">
                                    <p> <div class="controls">
-                             <textarea name="Names_children" class="input focused" rows="8" cols="80" placeholder="Write the names of your Children here"><?php echo $row['Names_children']; ?></textarea>
+                             <textarea name="Names_children" class="input focused" rows="8" cols="80" placeholder="Put your names here"><?php echo $row['Names_children']; ?></textarea>
           </div>
                                            </div>
                                                </p>
